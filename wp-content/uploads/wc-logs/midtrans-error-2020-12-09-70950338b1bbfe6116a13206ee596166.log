@@ -1,0 +1,7 @@
+2020-12-09T14:25:57+00:00 DEBUG 
+====Midtrans Plugin Version: 2.19.0====
+====Start Log Wed, 09 Dec 2020 14:25:57 +0000====
+Midtrans Error (400): {"error_messages":["transaction_details.order_id has been paid and utilized, please use another order ID"]} | Request url: https://app.sandbox.midtrans.com/snap/v1/transactions
+====End Log Wed, 09 Dec 2020 14:25:57 +0000 (0)====
+
+

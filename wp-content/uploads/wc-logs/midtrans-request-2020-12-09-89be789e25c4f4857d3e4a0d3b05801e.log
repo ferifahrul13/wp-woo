@@ -1,0 +1,63 @@
+2020-12-09T14:25:56+00:00 DEBUG 
+====Midtrans Plugin Version: 2.19.0====
+====Start Log Wed, 09 Dec 2020 14:25:56 +0000====
+Array
+(
+    [transaction_details] => Array
+        (
+            [order_id] => 15
+            [gross_amount] => 2940000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => feri
+            [last_name] => fahrul
+            [email] => ferifahrul1@gmail.com
+            [phone] => 0897263493
+            [billing_address] => Array
+                (
+                    [first_name] => feri
+                    [last_name] => fahrul
+                    [address] => jalan yos sudarso utara
+                    [city] => Batang
+                    [postal_code] => 51213
+                    [phone] => 0897263493
+                    [country_code] => IDN
+                )
+
+            [shipping_address] => Array
+                (
+                    [first_name] => feri
+                    [last_name] => fahrul
+                    [address] => jalan yos sudarso utara
+                    [city] => Batang
+                    [postal_code] => 51213
+                    [phone] => 0897263493
+                    [country_code] => IDN
+                )
+
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 11
+                    [price] => 490000
+                    [quantity] => 6
+                    [name] => Contoh Produk 1
+                )
+
+        )
+
+    [credit_card] => Array
+        (
+            [secure] => 1
+        )
+
+)
+
+====End Log Wed, 09 Dec 2020 14:25:56 +0000 (0)====
+
+
