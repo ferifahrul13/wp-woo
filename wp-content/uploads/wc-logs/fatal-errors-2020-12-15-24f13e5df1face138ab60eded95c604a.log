@@ -1,2 +1,8 @@
 2020-12-15T15:15:27+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\wordpress\wp-includes\Requests\Transport\cURL.php on line 463
 
+2020-12-15T15:45:49+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\wordpress\wp-includes\Requests\Transport\cURL.php on line 463
+
+2020-12-15T15:46:38+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\wordpress\wp-includes\Requests\Transport\cURL.php on line 463
+
+2020-12-15T15:50:32+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\wordpress\wp-admin\includes\class-wp-filesystem-direct.php on line 82
+
